@@ -3,12 +3,12 @@ author: code-victor-now
 email: vcalesco@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   code-victor-now
-  <p align="left"><img width="300" src="https://user-images.githubusercontent.com/8168962/146066829-1116c9ba-242d-4b0b-91a4-4b01109fc868.png"></p>
-
+  
+  
 # social links
 
 github_username:  code-victor-now
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: cayman
+theme: minima
