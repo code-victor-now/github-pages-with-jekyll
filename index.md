@@ -2,4 +2,4 @@
 title: "code-victor-now"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk about my roadmap to become a Software Developer
