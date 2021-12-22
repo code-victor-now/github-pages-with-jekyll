@@ -2,33 +2,33 @@
 title: "Full-Stack Developer Skills"
 ---
 
-Front-End
-  [] HTML/CSS
-  [] JavaScript
+Front-End 
+  [ ] HTML/CSS
+  [ ] JavaScript
 
-Back-End/ Frameworks
-  [] NodeJS/ ExpressJs
-  [] Java
-  [] Python
-  [] C#
-  [] PHP
+Back-End/ Frameworks 
+  [ ] NodeJS/ ExpressJs
+  [ ] Java
+  [ ] Python
+  [ ] C#
+  [ ] PHP
   
- Database Management Systems
-  [] MySQL/ SQL Server
-  [] MongoDB
+ Database Management Systems 
+  [ ] MySQL/ SQL Server
+  [ ] MongoDB
   
- Version Control
-  []GIT
+ Version Control 
+  [ ]GIT
   
- Web Hosting Platforms
-  [] AWS
-  [] Google
-  [] Azure
+ Web Hosting Platforms 
+  [ ] AWS
+  [ ] Google
+  [ ] Azure
   
- Soft Skills
-  [] Creativity
-  [] Strategic Planning
-  [] Analytical Skills
-  [] Problem-solving
-  [] Time Management
+ Soft Skills 
+  [ ] Creativity
+  [ ] Strategic Planning
+  [ ] Analytical Skills
+  [ ] Problem-solving
+  [ ] Time Management
   
